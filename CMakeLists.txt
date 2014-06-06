@@ -1,1 +1,1 @@
-SUBDIRS(YacuDecuWrapper)
+SUBDIRS(YacuDecuWrapper deconware-GPU DeconwareSwig)
